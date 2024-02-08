@@ -19,9 +19,7 @@
 I am an aspiring full-stack software engineer, currently pursuing a bachelor's degree.
 I am a college student by day, and a software engineer by night.
 
-I love Go.
-
 #### Tech Stack
 - Backend: Go, Node.js + Express, Laravel, Django, Flask
-- Frontend: SvelteKit, Next.js + React, Vue
+- Frontend: SvelteKit, Next.js, React, Vue
 - Databases: Postgres, MySQL, MongoDB, Redis
