@@ -16,7 +16,6 @@
 ---
 
 ### About me
-I am an aspiring full-stack software engineer, currently pursuing a bachelor's degree.
 I am a college student by day, and a software engineer by night.
 
 #### Tech Stack
